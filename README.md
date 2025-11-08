@@ -1,3 +1,3 @@
 
 ### Data Architecture 
-<img width="429" alt="image" src="Data Architecture.png">
+<img width="full" alt="image" src="Data Architecture.png">
